@@ -6,11 +6,10 @@
   <br>
 </h1>
 
-<h4 align="center">Create the perfect audience for your next marketing campaign with Twitter lists</h4>
+<h4 align="center">Create the perfect audience for your next marketing campaign with Twitter lists.</h4>
 
 <p align="center">
 <a align="center" href="http://standardjs.com/"><img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg" alt="Standard"></a>
-<br>
 <br>
 <br>
 </p>
