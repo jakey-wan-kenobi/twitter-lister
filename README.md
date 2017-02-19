@@ -14,7 +14,7 @@
 <br>
 </p>
 
-## Getting Started
+## Getting Started ⚡️
 
 Before you can access the Twitter API, you need to create an app. This will grant you a consumer key, a consumer secret, an access token, and an access secret.
 
@@ -24,7 +24,7 @@ Once you've done that, do the following to create your first list!
 2. `npm install`
 3. Adjust the listName, listOwner, and listCount values in lib/server.js
 4. Insert your Twitter app secrets and keys (in an .env file)
-4. `npm start`
+5. `npm start`
 
 After running `npm start` you should see `File saved!` logged to console. You'll find your CSV file, with users' `id` and `screen_name`, in the `/csv` directory.
 
