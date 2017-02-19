@@ -32,7 +32,7 @@ To save another csv, change out all the values again and save -- nodemon will ma
 
 ## A Few More Details
 
-The listName and listOwner values are the strings that you can grab from Twitter itself. For example, if the list owner is @jakeywankenobi, the listName is "jakeywankenobi." If the list is called "awesomelist", that's the string to insert into listOwner. See the lib/server.js file itself (the comment block at the top of the file).
+The listName and listOwner values are the strings that you can grab from Twitter itself. For example, if the list owner is @jakeywankenobi, the listOwner is "jakeywankenobi." If the list is called "awesomelist", that's the string to insert into listOwner. See the lib/server.js file itself (the comment block at the top of the file).
 
 More details on the .env file: create a .env file in the base of your repo, and place the consumer key, consumer secret, access token, and access token secret in there, according to the following format:
 
