@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://nodejs.org/en/"><img src="https://media.giphy.com/media/8zjUHaJ9fjAVG/giphy.gif" alt="Bird" width="300"></a>
+  <img src="https://media.giphy.com/media/8zjUHaJ9fjAVG/giphy.gif" alt="Bird" width="300">
   <br>
   <br>
   Create CSVs from Twitter Lists
